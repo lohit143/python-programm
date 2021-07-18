@@ -1,4 +1,5 @@
 n = int(input("enter a number\n"))
+
 prime = True
 
 for i in range(2, n):
